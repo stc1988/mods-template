@@ -1,7 +1,7 @@
 {
 	"include": [
 		"$(MODDABLE)/examples/manifest_mod.json",
-		"../../modules/driver/manifest.json"
+		"../../modules/driver/manifest_module.json"
 	],
 	"modules": {
 		"*": ["./mod"]

@@ -1,0 +1,6 @@
+{
+	"modules": {
+		"*": ["./driver"]
+	},
+	"preload": ["driver"]
+}
