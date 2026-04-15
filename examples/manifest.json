@@ -1,6 +1,7 @@
 {
 	"include": [
 		"$(MODDABLE)/examples/manifest_base.json",
+		"$(MODDABLE)/examples/manifest_typings.json",
 		"$(MODULES)/base/modules/manifest.json",
 		"../modules/driver/manifest_include.json"
 	],
